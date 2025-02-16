@@ -1,3 +1,31 @@
+# Update: Spring 2025
+Since we have been given the DE10s with the default program already flashed and functionality checked, all that needs to be done is to flash them with the safe script. This can easily be done for multiple DE10s with the program_many batch script, selecting safe.pof.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 DE10_Lite QC workflow
 
 All programming can also be done manually using the Quartus Programmer, but I will provide instructions assuming the use of the Powershell script

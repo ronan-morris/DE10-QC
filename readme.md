@@ -24,7 +24,7 @@ Since we have been given the DE10s with the default program already flashed and 
 
 
 
-
+# Old instructions
 
 DE10_Lite QC workflow
 

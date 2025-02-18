@@ -1,5 +1,5 @@
 # Update: Spring 2025
-Since we have been given the DE10s with the default program already flashed and functionality checked, all that needs to be done is to flash them with the safe script. This can easily be done for multiple DE10s with the program_many batch script, selecting safe.pof.
+Since we have been given the DE10s with the default program already flashed and functionality checked, all that needs to be done is to flash them with the safe script. This can easily be done for multiple DE10s with the program_many_safe batch script, selecting safe.pof.
 
 
 
